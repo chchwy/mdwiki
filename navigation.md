@@ -1,6 +1,7 @@
 # chchwy
 
-[Home](home.md)
+[Home](index.md)
 [About](about.md)
-[Nav](nav.md)
-[gimmick:themechooser](Choose theme)
+
+# [gimmick:themechooser](Choose theme)
+[gimmick:theme](cosmo)
