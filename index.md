@@ -14,6 +14,12 @@ Hi, 這是 chchwy 的個人知識庫.
 - PBR (comming soon.)
 
 ## Processing
+
 - [目錄](Processing/index.md)
 - [基本結構](Processing/01-Basic.md)
 - [第一張圖](Processing/02-Painting.md)
+
+## Qt
+
+- i18n
+- QGraphicsView
