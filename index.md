@@ -1,7 +1,5 @@
 
-# My Wiki
-
-Hi, 這是 chchwy 的個人知識庫.
+# Home
 
 ## DirectX 11
 
@@ -23,3 +21,13 @@ Hi, 這是 chchwy 的個人知識庫.
 
 - i18n
 - QGraphicsView
+
+
+<script>
+$('#md-content').css(
+    {
+        "-webkit-column-width" : "20em", /* Chrome, Safari, Opera */
+           "-moz-column-width" : "20em", /* Firefox */
+                "column-width" : "20em"
+    } );
+</script>
