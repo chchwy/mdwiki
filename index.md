@@ -3,6 +3,8 @@
 
 ## DirectX 11
 
+- 初始化 DirectX 11
+- [Input Layout](Dx11/InputLayout.md)
 - [從圖像檔案建立Texture2D](Dx11/Load-Texture-From-File.md)
 
 ## 3D Graphics
@@ -19,9 +21,17 @@
 
 ## Qt
 
+- [快速筆記](Qt/FAQ.md)
+- Qt 編譯流程
 - i18n
 - QGraphicsView
 
+## Python
+
+- 基本輸出輸入
+- 資料結構
+- 走遍目錄檔案
+- 解析 XML 文件
 
 <script>
 $('#md-content').css(
