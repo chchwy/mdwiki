@@ -33,6 +33,11 @@
 - 走遍目錄檔案
 - 解析 XML 文件
 
+## Others
+
+- [Git 常用命令整理](Some/Git.md)
+
+
 <script>
 $('#md-content').css(
     {
