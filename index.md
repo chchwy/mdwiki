@@ -29,7 +29,7 @@
 ## Python
 
 - 基本輸出輸入
-- 資料結構
+- [List](Python/List.md)
 - 走遍目錄檔案
 - 解析 XML 文件
 
