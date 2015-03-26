@@ -5,7 +5,7 @@
 
 - 初始化 DirectX 11
 - [Input Layout](Dx11/InputLayout.md)
-- [從圖像檔案建立Texture2D](Dx11/Load-Texture-From-File.md)
+- [用圖檔建立 Texture2D](Dx11/Load-Texture-From-File.md)
 
 ## 3D Graphics
 
