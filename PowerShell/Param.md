@@ -5,12 +5,12 @@
 
 那可以在檔案開頭放 param() 來處理：
 
-~~~powershell
+```powershell
 param (
   [string]$server = "http://defaultserver",
   [string]$username = $(throw "-username is required."),
   [string]$password = $( Read-Host "Input password, please" )
 )
-~~~
+```
 
 也可已給定預設值
