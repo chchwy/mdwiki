@@ -1,18 +1,28 @@
 
 # Home
 
-## DirectX 11
-
-- 初始化 DirectX 11
-- [Input Layout](Dx11/InputLayout.md)
-- [用圖檔建立 Texture2D](Dx11/Load-Texture-From-File.md)
-
 ## 3D Graphics
 
 - [AO](CG/AO.md)
 - ShadowMap (comming soon.)
 - PBR (comming soon.)
 - [連結收集](CG/Links.md)
+
+## DirectX 11
+
+- 初始化 DirectX 11
+- [Input Layout](Dx11/InputLayout.md)
+- [用圖檔建立 Texture2D](Dx11/Load-Texture-From-File.md)
+
+## Git
+
+- [Git 常用命令整理](Some/Git.md)
+
+## Powershell 
+
+- [Array陣列](PowerShell/Array.md)
+- [Get-ChildItem](PowerShell/Get-ChildItem.md)
+- [參數列](PowerShell/Param.md)
 
 ## Processing
 
@@ -34,16 +44,12 @@
 - 走遍目錄檔案
 - 解析 XML 文件
 
-## Others
-
-- [Git 常用命令整理](Some/Git.md)
-
 
 <script>
 $('#md-content').css(
     {
-        "-webkit-column-width" : "20em", /* Chrome, Safari, Opera */
-           "-moz-column-width" : "20em", /* Firefox */
-                "column-width" : "20em"
+        "-webkit-column-width" : "22em", /* Chrome, Safari, Opera */
+           "-moz-column-width" : "22em", /* Firefox */
+                "column-width" : "22em"
     } );
 </script>

@@ -1,10 +1,10 @@
 # List
 
-list 是數據的線性集合, 用方括號包起來[]就可以建立 list
+list 是變數的線性集合, 用方括號包起來[]就可以建立 list
 
     fruit = ['Apple', 'Banana', 'Orange']
     
-使用 `len()` 來得知 list 元素的個數
+用 `len()` 來得知 list 元素的個數
 
     len(fruit)    => 3
     
@@ -19,10 +19,9 @@ list 是數據的線性集合, 用方括號包起來[]就可以建立 list
     
 超出索引範圍會丟出 IndexError
 
-    fruit[5]      => IndexError
+    fruit[99]      => IndexError
     
-
-用 `append()` 可以往尾端添加元素
+用 `append()` 往尾端添加元素
 
     fruit.append( 'Lime' )   => ['Apple','Banana','Orange','Lime']
     
