@@ -6,6 +6,10 @@
 收集一些關於 3D 圖學相關的連結和筆記
  [Physically Based Rendering](CG/PBR.md) | [Ambient Occlusion](CG/AO.md) | [ShadowMap](CG/ShadowMap.md) | [Library收集](CG/Links.md)
 
+## Godot Engine
+
+- [Scripts](Godot/Script.md)
+
 ## DirectX 11
 
 打算進行一系列的 DirectX 11 筆記
