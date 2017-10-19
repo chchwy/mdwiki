@@ -3,14 +3,19 @@
 
 從 P 引擎中學到的東西
 
-- Event handler 
+- boost
+- Event handler (decouple)
 - RakNet 網路引擎
 - Assimp 庫
-- boost
 - libyuv
+- XML lib
+- json lib
 
 其他想寫的
 
+- Pencil2D 開源歷險記
+- Shadow map 原理
+- 四元數與空間旋轉
 - C++11 Lambda
 - C++11 Smart pointer
 - Shadow Map 原理
@@ -18,7 +23,7 @@
 - Dx11 - DepthBias 與 SlopeScaledDepthBias 的意義
 - Dx11 - Dynamic Shader Linkage
 - Dx11 - 教學文章
-
 - Dx12 入門系列
+- Wav檔案格式解析
 
 https://digitalerr0r.wordpress.com/2015/08/24/directx-12-programming-2-pipeline-state-objects/
