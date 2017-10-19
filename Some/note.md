@@ -7,6 +7,7 @@
 - RakNet 網路引擎
 - Assimp 庫
 - boost
+- libyuv
 
 其他想寫的
 
