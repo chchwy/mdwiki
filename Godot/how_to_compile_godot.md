@@ -15,7 +15,7 @@
 ### Compile
 
 - Open **x86 Native Tools Command Prompt for VS 2017**
-- Run `scons p=windows -j8`, j is the number
+- Run `scons p=windows -j8`, j is the amount of threads for compiling.
 - Generating VS project, Run `scons p=windows vsproj=yes`
 
 Done.
