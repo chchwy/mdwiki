@@ -1,5 +1,5 @@
 
 # Processing 目錄
 
-- [基本結構](01-Basic.md)
-- [第一張圖](02-Painting.md)
+- [基本結構](01_basic.md)
+- [基本語法](02_language.md)
