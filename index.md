@@ -15,8 +15,6 @@
 Processing 是一個簡易的 2D 繪圖函式庫
 
 - [目錄](processing/index.md)
-- [基本結構](processing/01-Basic.md)
-- [第一張圖](processing/02-Painting.md)
 
 ## DirectX 11
 
