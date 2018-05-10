@@ -6,6 +6,11 @@
 收集一些關於 3D 圖學相關的連結和筆記
 [Physically Based Rendering](3d/pbr.md) | [Ambient Occlusion](3d/ao.md) | [ShadowMap](3d/shadowmap.md) | [Library收集](3d/links.md)
 
+## C++
+
+- [Effective Modern C++ 筆記](cpp/effective_modern_cpp.md)
+- [Effective C++ 3rd 筆記](cpp/effective_cpp.md)
+
 ## Godot Engine
 
 - [GD Scripts](godot/gd_script.md)
