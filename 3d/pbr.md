@@ -8,8 +8,11 @@ PBR 是一種新的光照模型，相較於舊的 Phone model，PBR 可以更精
 - [PBR Texture Conversion][4]
 - [Improved IBL][5]
 
+Free IBL 
+http://www.hdrlabs.com/sibl/archive.html
 
 ### 參考文章
+
 - [Everything is shiny][2]
 
 [1]: https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/
